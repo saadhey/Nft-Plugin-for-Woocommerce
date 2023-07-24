@@ -1,7 +1,4 @@
-# NFT Auction Product Type for WooCommerce – BID HAUS
-BID HAUS is a [WordPress NFT Plugin](https://art.haus/wordpress-nft-plugin/) for auctions with WooCommerce, built by [ART HAUS](https://art.haus) and powered by the [ZORA Auction House contract](https://docs.zora.co/docs/smart-contracts/zora-contracts#auction-house) on Ethereum. It's free and enables you to auction any ERC-721 with 0% marketplace fees and automated curator earnings.
 
-![](https://raw.githubusercontent.com/artdothaus/brand-assets/main/wordpress-nft-plugin-for-woocommerce.jpg)
 
 ## Turn Your WooCommerce Shop into an NFT Marketplace
 
@@ -15,15 +12,6 @@ Once the plugin is installed and activated you will find a new Product Type avai
 
 ![](https://raw.githubusercontent.com/artdothaus/brand-assets/main/wordpress-nft-plugin.jpg)
 
-## Getting Started
-
-### Installing the Plugin
-
-1. [Download ZIP](https://github.com/artdothaus/wordpress-nft-plugin/archive/refs/heads/main.zip) of this repo
-2. Login to your WordPress admin
-3. Visit Plugins > Add New > Upload
-4. "Choose file" and select ZIP downloaded
-5. Click "Install Now" then "Activate"
 
 ### Creating an NFT Auction
 
@@ -48,4 +36,3 @@ Auction will run for Days/Hours/Minutes you've set. Countdown commences upon fir
 
 **PLEASE NOTE:** You will also need to Connect from the front end and *Approve* the auction (and confirm transaction) as it's a requirement of the ZORA Auction House contract. This is intended to be done by the nominated Curator, or alternatively by the Artist or Collector you are selling on behalf of. If you are the only involved party, you can Approve from a different wallet address.
 
-For more information, please visit the [ZORA documentation](https://docs.zora.co).
