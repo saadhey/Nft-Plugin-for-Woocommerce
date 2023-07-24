@@ -2,7 +2,7 @@
 
 ## Turn Your WooCommerce Shop into an NFT Marketplace
 
-Visitors to your WordPress website are presented with the WooCommerce experience they are already familiar with. Products that you've set as [NFT Auctions](https://art.haus/shop/) will have the usual checkout experience replaced with a simple Web3 flow. Collectors simply connect their wallet via either MetaMask or WalletConnect integration and are then able to place on-chain bids directly from the product page.
+Visitors to your WordPress website are presented with the WooCommerce experience they are already familiar with. Products that you've set as [NFT Auctions] will have the usual checkout experience replaced with a simple Web3 flow. Collectors simply connect their wallet via either MetaMask or WalletConnect integration and are then able to place on-chain bids directly from the product page.
 
 ![](https://raw.githubusercontent.com/artdothaus/brand-assets/main/wordpress-nft-plugin-demo.png)
 
